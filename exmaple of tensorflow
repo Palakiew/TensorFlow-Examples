@@ -1,0 +1,40 @@
+Input Data
+Reduce Loss
+onEpochEnd
+Explained
+
+The model above performs 4 important steps:
+
+    It Collects Data
+    It Prepares Data
+    It Trains a Model
+    It Evaluates the Model
+
+In the next chapters you will learn how to program a copy of the above example.
+
+You will learn how to fetch data, clean data, and plot data.
+
+You will also learn how to build a TensorFlow model, and how to train the model.
+
+    Fetch and Clean Data
+    Create a TensorFlow Model
+    Train the Model
+
+Graphics (tfjs-vis)
+
+The graphics is displayed using the tfjs-vis library.
+
+tfjs-vis is a small library for in browser visualization intended for use with TensorFlow.js.
+
+    Main Features are:
+    Graphic tools for visualizing Machine Learning
+    Functions for visualizing TensorFlow Objects
+    Visualizations can be organized in a Visor (a modal browser window)
+    Can be used with Custom Tools likes d3, Chart.js, and Plotly.js
+
+
+
+
+
+
+
